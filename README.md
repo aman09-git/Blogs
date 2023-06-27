@@ -12,3 +12,5 @@ Process : Thread : Core
 Virtual CPU.
 
 DNS : Domain Name System
+
+SSL and TLS
